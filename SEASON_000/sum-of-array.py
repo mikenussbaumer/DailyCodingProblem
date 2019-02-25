@@ -51,6 +51,6 @@ def testFile(fileName, sum):
 
     hasArraySum(array, sum)
 
-testFile('test.txt', 9427983 + 343104)
-testFile('test.txt', 242759 + 33412)
+testFile('test.txt', 9427983 + 20302)
+testFile('test.txt', 12330 + 33412)
 
